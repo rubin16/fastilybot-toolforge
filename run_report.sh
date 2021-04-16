@@ -7,7 +7,7 @@
 #:
 #: Author: Fastily
 
-ENWIKI="enwiki"
+ENWIKI="ruwiki"
 COMMONSWIKI="commonswiki"
 
 REPORT_DIR=~/"public_html/r"
