@@ -59,8 +59,8 @@
 	</nav>
 	<div class="container">
 		<div class="jumbotron mt-3">
-			<h1 class="display-4">fastilybot @ toolforge</h1>
-			<p class="lead">[Raw DB Reports]</p>
+			<h1 class="display-4">fastilybot @ toolforge (forked by rubin16)</h1>
+			<p class="lead">[Raw DB Reports for ru.wiki]</p>
 		</div>
 
 		<table class="table table-striped table-hover">
