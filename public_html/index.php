@@ -74,7 +74,7 @@
 			</thead>
 			<tbody>
 				<?php
-					generateRow(1, "files with a duplicate on Commons", "Tri-weekly"); 
+					generateRow(1, "Файлы с дубликатами на Викискладе", "Раз в неделю"); 
 #					generateRow(2, "enwp files tagged as free and non-free", "Weekly"); 
 #					generateRow(3, "free files on enwp with no fileusage", "Weekly");
 #					generateRow(4, "free files on enwp with links to the mainspace", "Weekly");
@@ -84,9 +84,9 @@
 #					generateRow(8, "all files on enwp", "Weekly");
 #					generateRow(9, "orphaned free files on enwp", "Weekly");
 #					generateRow(10, "orphaned, low-res free files", "Weekly");
-					generateRow(11, "file pages shadowing commons files", "Weekly");
+#					generateRow(11, "file pages shadowing commons files", "Weekly");
 #					generateRow(12, "enwp files without an obvious/machine-readable source", "Weekly");
-					generateRow(13, "files shadowing a Commons file", "Weekly");
+#					generateRow(13, "files shadowing a Commons file", "Weekly");
 #					generateRow(14, "transcluded non-existent templates on enwp", "Weekly");
 #					generateRow(15, "non-free pdfs on enwp", "Weekly");
 #					generateRow(16, "orphaned file talk pages", "Weekly");
